@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Awake",
+			"Path": "D:\\GraduateProject\\project\\Awake\\Source\\Awake.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AwakeEditor",
+			"Path": "D:\\GraduateProject\\project\\Awake\\Source\\AwakeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GraduateProject\\project\\Awake\\Source\\Awake\\Awake.Build.cs",
+		"D:\\GraduateProject\\project\\Awake\\Source\\Awake.Target.cs",
+		"D:\\GraduateProject\\project\\Awake\\Source\\AwakeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

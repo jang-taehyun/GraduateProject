@@ -1,0 +1,2 @@
+D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\Definitions.Awake.h
+D:\GraduateProject\project\Awake\Source\Awake\Awake.h
