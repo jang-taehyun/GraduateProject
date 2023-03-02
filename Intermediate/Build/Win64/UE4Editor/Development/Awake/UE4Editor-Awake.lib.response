@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-Awake.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\GraduateProject\Intermediate\Build\Win64\AwakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\Awake.cpp.obj"
-"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\AwakeGameModeBase.cpp.obj"
-"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\Awake.init.gen.cpp.obj"
-"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\AwakeGameModeBase.gen.cpp.obj"
-"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\Default.rc2.res"
-/OUT:"D:\GraduateProject\Intermediate\Build\Win64\UE4Editor\Development\Awake\UE4Editor-Awake.lib"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\AwakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\Awake.cpp.obj"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\AwakeGameModeBase.cpp.obj"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\Awake.init.gen.cpp.obj"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\AwakeGameModeBase.gen.cpp.obj"
+"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\Default.rc2.res"
+/OUT:"D:\GraduateProject\project\Awake\Intermediate\Build\Win64\UE4Editor\Development\Awake\UE4Editor-Awake.lib"

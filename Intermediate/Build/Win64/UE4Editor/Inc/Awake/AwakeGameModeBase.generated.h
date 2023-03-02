@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AWAKE_AwakeGameModeBase_generated_h
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAwakeGameModeBase(); \
 	friend struct Z_Construct_UClass_AAwakeGameModeBase_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AAwakeGameModeBase)
 
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_INCLASS \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAAwakeGameModeBase(); \
 	friend struct Z_Construct_UClass_AAwakeGameModeBase_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AAwakeGameModeBase)
 
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAwakeGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAwakeGameModeBase) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAwakeGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -60,28 +60,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAwakeGameModeBase)
 
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_12_PROLOG
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define Awake_Source_Awake_AwakeGameModeBase_h_12_PROLOG
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_INCLASS \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_INCLASS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define GraduateProject_Source_Awake_AwakeGameModeBase_h_15_GENERATED_BODY \
+#define Awake_Source_Awake_AwakeGameModeBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	GraduateProject_Source_Awake_AwakeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_SPARSE_DATA \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	Awake_Source_Awake_AwakeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,7 +89,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AWAKE_API UClass* StaticClass<class AAwakeGameModeBase>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GraduateProject_Source_Awake_AwakeGameModeBase_h
+#define CURRENT_FILE_ID Awake_Source_Awake_AwakeGameModeBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
